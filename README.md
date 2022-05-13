@@ -1,4 +1,4 @@
-# Defending against Model Inversion Attack
+# Model Inversion Defense Using an Approximate Memory System (MIDAS)
 
 ![](./results/deep/recon_comparison_76_text.png)
 
