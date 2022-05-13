@@ -16,7 +16,7 @@ Run the code in ```MIDAS_shallow.ipynb```
 
 ## Deep Neural Networks
 
-Following the work of ["Neural Network Inversion in Adversarial Setting via Background Knowledge Alignment"](https://dl.acm.org/citation.cfm?id=3354261), the classifier is trained over the Facescrub dataset. Download 150x150 aligned images from [FaceScrub](https://github.com/theothings/facescrub-dataset.git) dataset and save them in the data directory. The inversion model is trained over public information, the CelebA dataset. Download the [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) dataset to the data directory and crop the images by ```crop.ipynb```.
+Following the work of ["Neural Network Inversion in Adversarial Setting via Background Knowledge Alignment"](https://dl.acm.org/citation.cfm?id=3354261), the classifier is trained over the Facescrub dataset. Download 150x150 aligned images from [FaceScrub](https://github.com/theothings/facescrub-dataset.git) dataset and save them in ```data/```. The inversion model is trained over public information, the CelebA dataset. Download the [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) dataset to ```data/``` and crop the images by ```crop.ipynb```. Please download the [trained classifier and inversion model](https://drive.google.com/drive/folders/12TgsgytXNE76FUCd74nSOmpIn8n9TVSd?usp=sharing) and save them in ```results/deep/```.
 
 
 ### Dependencies
