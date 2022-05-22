@@ -3,7 +3,7 @@
 ![](./results/deep/recon_comparison_76_text.png)
 
 This repo provides an example of defending against model inversion attacks in the 
-paper "An Approximate Memory based Defense against Model Inversion Attacks to Neural Networks" (under review) and [MIDAS: Model Inversion Defenses Using an Approximate Memory System](https://ieeexplore.ieee.org/abstract/document/9358254)
+paper "An Approximate Memory based Defense against Model Inversion Attacks to Neural Networks" (accepted by IEEE Transactions on Emerging Topics in Computing) and [MIDAS: Model Inversion Defenses Using an Approximate Memory System](https://ieeexplore.ieee.org/abstract/document/9358254)
 
 ## Shallow Neural Networks
 
